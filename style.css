@@ -208,7 +208,8 @@ button {
     }
 
     body {
-        font-size: 1.8rem
+        font-size: 1.8rem;
+        padding-inline: 3vw;
     }
 
     .order .order__confirm,
